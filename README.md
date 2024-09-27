@@ -1,5 +1,5 @@
 # TFT Statistics using Riot Games API
-## Video Demo: https://youtu.be/Z-W28ZQ_zxs
+
 ## Description:
 This project retrieves data from the Riot Games Developer API, which provides extensive information on all games developed by Riot Games. The program focuses specifically on the game "Teamfight Tactics," gathering data to generate a line chart and table that display a player's placement and total damage dealt in the most recent n games. It also allows users to search multiple games, facilitating comparisons.
 
